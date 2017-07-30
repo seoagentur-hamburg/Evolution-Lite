@@ -1,0 +1,583 @@
+# Copyright (C) 2014-2017 Themeevolution
+msgid ""
+msgstr ""
+"Project-Id-Version: evolution\n"
+"Report-Msgid-Bugs-To: http://themeevolution.com/contact/\n"
+"POT-Creation-Date: 2017-06-02 22:27+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:33 home.php:24 index.php:30 search.php:28
+msgid "&laquo; Previous"
+msgstr ""
+
+#: archive.php:34 home.php:25 index.php:31 search.php:29
+msgid "Next &raquo;"
+msgstr ""
+
+#: comments.php:28 inc/template-tags.php:94
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:28 inc/template-tags.php:94
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:34 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:59
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:60
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:76
+msgid "Leave a Comment"
+msgstr ""
+
+#: content-list.php:17 content-summary.php:11 content.php:11
+msgid "Featured"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:22 content-single.php:22 content.php:24
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:27
+msgid ", "
+msgstr ""
+
+#: content-summary.php:24 inc/extras.php:20
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: footer.php:24
+#, php-format
+msgid "Powered by <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: footer.php:24
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:26
+#, php-format
+msgid "Theme: <a href=\"%1$s\">%2$s</a> by %3$s"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: footer.php:26
+msgid "http://themeevolution.com/wordpress-themes/evolution/"
+msgstr ""
+
+#: functions.php:61
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:62
+msgid "Header Social Links"
+msgstr ""
+
+#: functions.php:114
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:116
+msgid ""
+"This is the normal sidebar. If you do not use this sidebar, the page will be "
+"a one-column design."
+msgstr ""
+
+#: functions.php:124
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:126
+msgid ""
+"From left to right there are 4 sequential footer widget areas, and the width "
+"is auto-adjusted based on how many you use. If you do not use a footer "
+"widget, nothing will be displayed."
+msgstr ""
+
+#: functions.php:133
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:141
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:149
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:175
+msgctxt "Source Serif Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:180
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:185
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:311
+msgid "Page Title Display"
+msgstr ""
+
+#: functions.php:334
+msgid "Hide Page Title"
+msgstr ""
+
+#: functions.php:384
+msgid "Social Link 1"
+msgstr ""
+
+#: functions.php:385
+msgid "Social Link 2"
+msgstr ""
+
+#: functions.php:386
+msgid "Social Link 3"
+msgstr ""
+
+#: functions.php:387
+msgid "Social Link 4"
+msgstr ""
+
+#: functions.php:388
+msgid "Social Link 5"
+msgstr ""
+
+#: functions.php:389
+msgid "Social Link 6"
+msgstr ""
+
+#: functions.php:390
+msgid "Social Link 7"
+msgstr ""
+
+#: header.php:20
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:39
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Thank you for using the evolution theme."
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "For instructions on theme configuration, please see the documentation."
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "http://themeevolution.com/documents/evolution/"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Support"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid ""
+"If there is something you don't understand even after reading the "
+"documentation, please use the support forum."
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "https://wordpress.org/support/theme/evolution"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Support Forum"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "Review"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid ""
+"If you are satisfied with the theme, we would greatly appreciate if you "
+"would review it."
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "https://wordpress.org/support/view/theme-reviews/evolution?filter=5"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "Review This Theme"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Upgrade"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid ""
+"If you would like even more features and/or 1-on-1 personal support, it is "
+"recommended you upgrade to evolution Pro."
+msgstr ""
+
+#: inc/customizer.php:31 inc/customizer.php:358
+msgid "http://themeevolution.com/wordpress-themes/evolution/#pro"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "evolution Pro"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "To use this feature, please upgrade to evolution Pro."
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Hide Tagline"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "READ ME"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "You can set the header and body text to a variety of fonts."
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "You can set the title font."
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid ""
+"In order to use a retina logo image, you must have a version of your logo "
+"that is doubled in size."
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Replace Title"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Retina Ready"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Add Border Radius"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Margin Top (px)"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Margin Bottom (px)"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Header Image Display"
+msgstr ""
+
+#: inc/customizer.php:199 inc/customizer.php:324
+msgid "Display on the blog posts index page"
+msgstr ""
+
+#: inc/customizer.php:200 inc/customizer.php:325
+msgid "Display on all static pages"
+msgstr ""
+
+#: inc/customizer.php:201 inc/customizer.php:326
+msgid "Display on the whole site"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid ""
+"You can set the posts that will be featured on the homepage slider as well "
+"as in the evolution Featured Posts widget."
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "Post Display"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid ""
+"You can set how posts are displayed on the blog posts index page. You can "
+"also hide elements such as categories, date, author name, comments number, "
+"featured image, author profile, and post navigation."
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Category Colors"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "You can set the colors for various categories."
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "You can set the footer text and hide the theme credits from here."
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "You can set custom CSS or Google Fonts."
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Hide Main Navigation"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "Hide Search on Main Navigation"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Upgrade to evolution Pro"
+msgstr ""
+
+#: inc/jetpack.php:46
+msgid "You might also like"
+msgstr ""
+
+#: inc/template-tags.php:78
+msgid "Posted"
+msgstr ""
+
+#: inc/template-tags.php:79
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:86
+msgid "by"
+msgstr ""
+
+#: inc/template-tags.php:88
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/template-tags.php:94
+msgid "0 Comment"
+msgstr ""
+
+#: inc/template-tags.php:154
+#, php-format
+msgid "View all posts by %s &rarr;"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:178
+msgid "Older post"
+msgstr ""
+
+#: inc/template-tags.php:178
+msgctxt "Previous post link"
+msgid "%title"
+msgstr ""
+
+#: inc/template-tags.php:179
+msgid "Newer post"
+msgstr ""
+
+#: inc/template-tags.php:179
+msgctxt "Next post link"
+msgid "%title"
+msgstr ""
+
+#: inc/widgets.php:15
+msgid "Displays recent posts with featured images."
+msgstr ""
+
+#: inc/widgets.php:16
+msgid "evolution Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:20
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:74 inc/widgets.php:172
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:77
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets.php:81
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets.php:94
+msgid "Displays a profile with a photo and social media links."
+msgstr ""
+
+#: inc/widgets.php:95
+msgid "evolution Profile"
+msgstr ""
+
+#: inc/widgets.php:175
+msgid "Profile Image URL:"
+msgstr ""
+
+#: inc/widgets.php:178
+msgid "Name:"
+msgstr ""
+
+#: inc/widgets.php:183
+msgid "Social Link 1:"
+msgstr ""
+
+#: inc/widgets.php:185
+msgid "Social Link 2:"
+msgstr ""
+
+#: inc/widgets.php:187
+msgid "Social Link 3:"
+msgstr ""
+
+#: inc/widgets.php:189
+msgid "Social Link 4:"
+msgstr ""
+
+#: inc/widgets.php:191
+msgid "Social Link 5:"
+msgstr ""
+
+#: inc/widgets.php:193
+msgid "Social Link 6:"
+msgstr ""
+
+#: inc/widgets.php:195
+msgid "Social Link 7:"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "evolution"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"evolution is a blog-oriented WordPress theme designed with great attention "
+"given to the beauty of the typoevolution. Made using mobile-first responsive "
+"web design, even when your site is viewed on a smartphone or tablet there "
+"will be no negative impact on the beautiful typoevolution."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themeevolution"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeevolution.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""

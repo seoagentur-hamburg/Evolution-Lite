@@ -836,9 +836,9 @@ body {
 	padding-right: 20px;
 }
 .menu-text:before {
-	content: "\f419";
+    content: "\f0c9";
 	display: inline-block;
-	font: normal 14px/1 Genericons;
+	font: normal 14px/1 Fontawesome;
 	-webkit-font-smoothing: antialiased;
 	margin-right: 10px;
 	position: relative;
@@ -846,7 +846,7 @@ body {
 	vertical-align: middle;
 }
 .main-navigation.toggled .menu-text:before {
-	content: "\f406";
+    content: "\f00d";
 }
 .main-navigation ul {
 	display: none;
